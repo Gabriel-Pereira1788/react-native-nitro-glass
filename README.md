@@ -1,7 +1,10 @@
 # react-native-nitro-glass
 
 
-https://github.com/user-attachments/assets/f962a8af-3472-416a-aca6-ac776a5ac5f1
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/f962a8af-3472-416a-aca6-ac776a5ac5f1" width="600" controls></video>
+</p>
+
 
 
 A native iOS library that brings LiquidGlass effects to React Native through Nitro Modules. Implement stunning glassmorphism (frosted glass) effects with native performance, supporting blur, transparency, and customizable tint colors.
