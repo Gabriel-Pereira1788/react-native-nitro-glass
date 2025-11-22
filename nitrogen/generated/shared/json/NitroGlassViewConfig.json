@@ -1,0 +1,12 @@
+{
+  "uiViewClassName": "NitroGlassView",
+  "supportsRawText": false,
+  "bubblingEventTypes": {},
+  "directEventTypes": {},
+  "validAttributes": {
+    "interactive": true,
+    "tintColor": true,
+    "effect": true,
+    "hybridRef": true
+  }
+}
