@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/f962a8af-3472-416a-aca6-ac776a5ac5f1" width="600" controls></video>
+  <a src="https://github.com/user-attachments/assets/f962a8af-3472-416a-aca6-ac776a5ac5f1" width="600" controls></a>
 </p>
 
 
